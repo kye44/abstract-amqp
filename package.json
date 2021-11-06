@@ -7,9 +7,9 @@
   "scripts": {
     "build": "npx tsc"
   },
-  "homepage": "https://github.com/kye44/simple-konfig",
+  "homepage": "https://github.com/kye44/abstract-amqp",
   "bugs": {
-    "url": "https://github.com/kye44/simple-konfig/issues"
+    "url": "https://github.com/kye44/abstract-amqp/issues"
   },
   "keywords": [
     "Abstraction",
