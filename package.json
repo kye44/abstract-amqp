@@ -1,0 +1,33 @@
+{
+  "name": "abstract-amqp",
+  "version": "1.0.0",
+  "description": "Simple abstraction of amqp-connection-manager for Typescript.",
+  "types": "lib/index.d.ts",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "npx tsc"
+  },
+  "homepage": "https://github.com/kye44/simple-konfig",
+  "bugs": {
+    "url": "https://github.com/kye44/simple-konfig/issues"
+  },
+  "keywords": [
+    "Abstraction",
+    "amqp",
+    "RabbitMQ",
+    "Typescript"
+  ],
+  "author": "Kye Purkis",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/amqp-connection-manager": "^2.0.12",
+    "@types/amqplib": "^0.8.2",
+    "amqp-connection-manager": "^3.7.0",
+    "nodemon": "^2.0.14",
+    "typedoc": "^0.22.7",
+    "typescript": "^4.3.4"
+  },
+  "dependencies": {
+    "reflect-metadata": "^0.1.13"
+  }
+}
